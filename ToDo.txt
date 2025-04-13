@@ -1,1 +1,2 @@
 - pouczyć się korzystania z git
+- zrobić zadania na inżynierię oprogramowania
