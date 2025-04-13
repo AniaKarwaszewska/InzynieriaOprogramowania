@@ -1,2 +1,2 @@
 Nowa linijka
-Inna linia w tym samym miejscu
+Inna linia w tym samym miejscu i Linia testowa z brancha test
