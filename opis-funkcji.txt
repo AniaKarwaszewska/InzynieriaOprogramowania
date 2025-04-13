@@ -1,1 +1,2 @@
 Ten plik opisuje funkcjonalność A.
+Dodano szczegóły działania funkcji A.
